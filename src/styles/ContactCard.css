@@ -1,0 +1,17 @@
+.contact-card {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.contact-card span {
+    display: block;
+    font-size: 24px;
+}
+
+.contact-card button {
+    background-color: lavender;
+    display: block;
+    border-radius: 3px;
+}
