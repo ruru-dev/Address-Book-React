@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Address-Book-React/static/css/main.2d237ba6.css",
+    "main.js": "/Address-Book-React/static/js/main.427dd891.js",
+    "static/js/787.0512b950.chunk.js": "/Address-Book-React/static/js/787.0512b950.chunk.js",
+    "index.html": "/Address-Book-React/index.html",
+    "main.2d237ba6.css.map": "/Address-Book-React/static/css/main.2d237ba6.css.map",
+    "main.427dd891.js.map": "/Address-Book-React/static/js/main.427dd891.js.map",
+    "787.0512b950.chunk.js.map": "/Address-Book-React/static/js/787.0512b950.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d237ba6.css",
+    "static/js/main.427dd891.js"
+  ]
+}
