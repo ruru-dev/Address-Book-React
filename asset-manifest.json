@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a1af132.css",
-    "main.js": "/static/js/main.2fe2bbd6.js",
-    "index.html": "/index.html",
-    "main.5a1af132.css.map": "/static/css/main.5a1af132.css.map",
-    "main.2fe2bbd6.js.map": "/static/js/main.2fe2bbd6.js.map"
+    "main.css": "/Address-Book-React/static/css/main.5a1af132.css",
+    "main.js": "/Address-Book-React/static/js/main.2fe2bbd6.js",
+    "index.html": "/Address-Book-React/index.html",
+    "main.5a1af132.css.map": "/Address-Book-React/static/css/main.5a1af132.css.map",
+    "main.2fe2bbd6.js.map": "/Address-Book-React/static/js/main.2fe2bbd6.js.map"
   },
   "entrypoints": [
     "static/css/main.5a1af132.css",
