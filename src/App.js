@@ -8,7 +8,8 @@ import axios from 'axios';
 import './App.css';
 
 // Importing components
-import ContactCard from './Components/ContactCard.js'
+import ImageList from '@mui/material/ImageList';
+import ContactCard from './components/ContactCard.js'
 
 /**
  * Create our App Component as a class so that we can define a constructor
@@ -34,7 +35,8 @@ class App extends Component {
     return (
       // Returning a react fragment which acts as a top level element.
       <>
-        <h1>Address Book</h1>
+        <h1 className='title'>Address Book</h1>
+        <ImageList sx={{ width: 1000, margin: 'auto', 'margin-top': '20px'}} cols={4} gap={20}>
         {
           // Loop over every contact in our contacts array
           this.state.contacts.map((contact, index) => {
@@ -45,6 +47,7 @@ class App extends Component {
             );
           })
         }
+        </ImageList>
       </>
     );
   }
